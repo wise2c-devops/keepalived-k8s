@@ -19,7 +19,7 @@ VRID=160
 MCAST_GROUP=224.0.0.18
 ```
 
-运行start-haproxy.sh脚本
+运行start-keepalived.sh脚本
 ```
 bash start-keepalived.sh
 ```
